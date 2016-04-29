@@ -32,6 +32,7 @@
         android:drawSelectorOnTop="true"
         android:horizontalSpacing="@dimen/grid_item_movie_spacing"
         android:numColumns="auto_fit"
+        android:translationY="65dp"
         android:padding="2dp"
         android:verticalSpacing="@dimen/grid_item_movie_spacing"
         android:visibility="visible" />
